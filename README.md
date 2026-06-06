@@ -4,7 +4,7 @@ I built this Retrieval-Augmented Generation (RAG) pipeline to solve a specific p
 
 It uses an entirely free-tier tech stack. To compensate for the latency and strict rate limits of free LLM APIs, the backend is built heavily around asynchronous execution, parallelized retrieval strategies, and strict in-memory caching.
 
-Live Link: 
+Live Link: (https://rag-app-hari.streamlit.app/)
 
 ## Tech Stack
 
