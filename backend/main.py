@@ -5,8 +5,8 @@ from pydantic import BaseModel
 from pathlib import Path
 import shutil
 
-from .ingest import ingest_pdf, list_ingested
-from .rag_chain import chat, sessions, _metadata_cache
+from ingest import ingest_pdf, list_ingested
+from rag_chain import chat, sessions, _metadata_cache
 
 app = FastAPI(title="RAG Document Q&A")
 
