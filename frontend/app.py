@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import uuid
 
-API_URL = "http://localhost:8000"
+API_URL = "https://rag-xfpz.onrender.com"
 
 st.set_page_config(
     page_title="Document Q&A",
