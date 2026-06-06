@@ -1,0 +1,10 @@
+test.pdf
+test1.pdf
+venv/
+__pycache__/
+vector_store/
+uploads/
+.env
+backend/test.pdf
+backend/test1.pdf
+backend/.DS_Store
