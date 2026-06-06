@@ -1,0 +1,11 @@
+ddgs
+fastapi
+httpx
+langchain
+langchain_community
+langchain_core
+langchain_text_splitters
+pydantic
+python-dotenv
+Requests
+streamlit
